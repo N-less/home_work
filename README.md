@@ -1,5 +1,5 @@
 # README #
-[![build status](https://github.com/N-less/home_work/commits/master/build.svg)](https://github.com/N-less/home_work/commits/master)
+[![build status](https://github.com/N-less/home_work/badges/master/build.svg)](https://github.com/N-less/home_work/commits/master)
 
 This README would normally document whatever steps are necessary to get your application up and running.
 
