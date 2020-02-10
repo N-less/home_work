@@ -1,5 +1,5 @@
 # README #
-[![build status](https://git.netcracker.com/Personal.CDC.LRG/TNC/badges/dev/build.svg)](https://git.netcracker.com/Personal.CDC.LRG/TNC/commits/dev)
+[![build status](https://github.com/N-less/home_work/commits/master/build.svg)](https://github.com/N-less/home_work/commits/master)
 
 This README would normally document whatever steps are necessary to get your application up and running.
 
